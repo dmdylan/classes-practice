@@ -1,0 +1,7 @@
+C:\Users\Dylan Danowski\source\repos\HumanNameTest\HumanNameTest\bin\Debug\HumanNameTest.exe.config
+C:\Users\Dylan Danowski\source\repos\HumanNameTest\HumanNameTest\bin\Debug\HumanNameTest.exe
+C:\Users\Dylan Danowski\source\repos\HumanNameTest\HumanNameTest\bin\Debug\HumanNameTest.pdb
+C:\Users\Dylan Danowski\source\repos\HumanNameTest\HumanNameTest\obj\Debug\HumanNameTest.csprojAssemblyReference.cache
+C:\Users\Dylan Danowski\source\repos\HumanNameTest\HumanNameTest\obj\Debug\HumanNameTest.csproj.CoreCompileInputs.cache
+C:\Users\Dylan Danowski\source\repos\HumanNameTest\HumanNameTest\obj\Debug\HumanNameTest.exe
+C:\Users\Dylan Danowski\source\repos\HumanNameTest\HumanNameTest\obj\Debug\HumanNameTest.pdb
